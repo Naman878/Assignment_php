@@ -1,0 +1,12 @@
+.form
+{
+    margin-left: 525px;
+    margin-right: 525px;
+    margin-top: 50px;
+    border: 5px solid burlywood;
+    border-radius: 2px;
+    padding-left: 3px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: aliceblue;
+}
